@@ -1,0 +1,1 @@
+A simple HTML project that includes my favorite recipes
